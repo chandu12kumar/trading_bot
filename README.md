@@ -22,6 +22,7 @@ A Python CLI application for placing MARKET and LIMIT orders on Binance USDT-M F
 * API Key and Secret
 
 ## Structure
+```text
 trading_bot/
 │
 ├── bot/
@@ -40,6 +41,7 @@ trading_bot/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+```
 
 ## Configuration
 
